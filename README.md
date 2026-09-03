@@ -1,5 +1,4 @@
-# greenscape-agent
-Quote Accelerator AI Agent for Greenscape Pro - Turn site walk notes into proposals instantly
+
 <div align="center">
   
   <img src="https://img.shields.io/badge/Next.js-14.0-black?style=for-the-badge&logo=next.js" alt="Next.js" />
